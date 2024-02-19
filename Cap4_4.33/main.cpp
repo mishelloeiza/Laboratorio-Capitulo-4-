@@ -2,10 +2,10 @@
 #include <cmath>
 #include <iomanip>
 using namespace std;
-// iomanpi  se uso para setprecision: Permite establecer la precisión decimal de los números de punto flotante1.
+// iomanpi  se uso para setprecision: Permite establecer la precisiÃ³n decimal de los nÃºmeros de punto flotante1.
 // Use cmath por que nesesito la raiz cuadrada para aplicar pitagoras
-// pow potecia(Tamaño,potencia) y sqrt raiz (parametro,tamaño raiz )
-// Ruddyard Castro  9959-23-1409
+// pow potecia(TamaÃ±o,potencia) y sqrt raiz (parametro,tamaÃ±o raiz )
+// Mishel loeiza 9959-23-3457
 int main() {
     double catetoAdyacente, catetoOpuesto, hipotenusa;
 
@@ -22,7 +22,7 @@ int main() {
     // Redondea la hipotenusa esperada a dos decimales
     hipotenusaEsperada = round(hipotenusaEsperada * 100) / 100;
 
-    cout << fixed << setprecision(2); // Establece la precisión de la salida a dos decimales
+    cout << fixed << setprecision(2); // Establece la precisiÃ³n de la salida a dos decimales
 
     if (hipotenusa < hipotenusaEsperada) {
         cout << "Es imposible que sea un triangulo rectangulo." << endl;
