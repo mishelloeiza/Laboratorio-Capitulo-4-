@@ -1,7 +1,7 @@
 #include <iostream>
 // Agregear libreria string (Para usar operadores que manipulan cadena == y !=) ademas de usar string
 #include <string>
-// Ruddyard Castro 9959-23-1409
+// Mishel Loeiza 9959-23-3457
 int main() {
     using namespace std;
     string respuesta;
@@ -21,7 +21,7 @@ int main() {
         resultado=sueldo+(comicion*totalVendido);
         cout<<"El total a pagar al empleado por la semana es : "<<resultado<<endl;
 
-     cout << "¿Deseas iniciar la calculadora? (s/n): ";
+     cout << "Â¿Deseas iniciar la calculadora? (s/n): ";
         cin >> respuesta;
 
         if (respuesta == "n" || respuesta == "n") {
