@@ -2,7 +2,7 @@
 
 
 // Mishel Loeiza 9959-23-3457
-// En cuentra el numero mas grande y muestra el numero de iteración
+// En cuentra el numero mas grande y muestra el numero de iteración 
 int main()
 {
     using namespace std;
