@@ -1,8 +1,8 @@
 #include <iostream>
 
 
-// Ruddyard Castro 9959-23-1409
-// En cuentra el numero mas grande y muestra el numero de iteración
+// Mishel Loeiza 9959-23-3457
+// En cuentra el numero mas grande y muestra el numero de iteraciÃ³n
 int main()
 {
     using namespace std;
