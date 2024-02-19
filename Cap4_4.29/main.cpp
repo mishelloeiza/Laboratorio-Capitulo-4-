@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-// Ruddyard 9959-23-1409
+// Mishel loeiza 9959-23-3457
 // Hacer un loops infinito
 int main()
 {
