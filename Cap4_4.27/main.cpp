@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 // Convertir de decimal a binario
-// Ruddyard Castro 9959-23-1409
+// Mishel loeiza 9959-23-3457
 int main() {
     int binario, digito,decimal , base;
     decimal=0;
     base=1;
 
-    cout << "Introduce un número en  binario: ";
+    cout << "Introduce un nÃºmero en  binario: ";
     cin >> binario;
 
     while(binario > 0) {
