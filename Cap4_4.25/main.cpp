@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
-// Ruddyard Castro 9959-23-1409
+// Mishel loeiza 9959-23-3457
 int main() {
-    // Uso size por que no uso ñ por lo cual size es tamaño en este programa
+    // Uso size por que no uso Ã± por lo cual size es tamaÃ±o en este programa
     int size;
         cout << "Introduce el size del lado de un cuadrado (entre 1 y 20): ";
     cin >> size;
 
     if(size < 1 || size > 20) {
-        cout << "size inválido. Debe estar entre 1 y 20.";
+        cout << "size invÃ¡lido. Debe estar entre 1 y 20.";
         return 0;
     }
     /// Resliza i  en vertical
