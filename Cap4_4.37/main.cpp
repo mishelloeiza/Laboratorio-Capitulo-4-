@@ -1,8 +1,8 @@
 #include <iostream>
-// Uso year porqu años no se puede
+// Uso year por que aÃ±os no se puede utilizar
 // Uso size por que la poblacion no se duplico
 // Fuente usada : worldometers
-// Ruddyard Castro 9959-23-1409
+// Mishel loeiza 9959-23-3457
 using namespace std;
 
 int main()
