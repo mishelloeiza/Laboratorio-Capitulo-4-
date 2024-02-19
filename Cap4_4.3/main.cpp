@@ -1,5 +1,5 @@
 #include <iostream>
-// Prgrograma realizado por Ruddyard Castro 9959-23-1409
+// Prgrograma realizado por Mishel loeiza 9959-23-3457
 using namespace std;
 
 int main()
